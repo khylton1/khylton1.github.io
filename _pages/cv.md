@@ -27,6 +27,7 @@ Work experience
 * Victoria Gastro Pub
  * Duties included: Hosting, food running, and serving
  * May 2021-present day 
+
 Skills
 ======
 * Farsi (conversational)
@@ -37,6 +38,7 @@ Skills
 * Microsoft Excel
 * ArcGIS Pro 
 * RStudio 
+
 Service and leadership
 ======
 * Volunteer summer camp counselor at the YMCA 2013-2014
