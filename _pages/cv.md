@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Senior: University of Maryland Baltimore County (UMBC) Majoring in Geography and Environmental Systems 
+* Senior: University of Maryland Baltimore County (UMBC) 
+* Majoring in Geography and Environmental Systems 
 
 
 Work experience
