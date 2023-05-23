@@ -7,6 +7,7 @@ collection: portfolio
 <br/><img src='images/all cause mortality.pdf'>
 <br/><img src='images/communities of opp.jpg'>
 <br/><img src='images/Housing Designated Areas.pdf'>
+<br/><img src='images/infant deaths.pdf'>
 
 Introduction + Background:
 ======
