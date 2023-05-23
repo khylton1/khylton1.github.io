@@ -5,5 +5,7 @@ excerpt: The Effects of Housing on the Health of Communities in Maryland and Peo
 collection: portfolio
 ---
 <br/><img src='images/all cause mortality.pdf'>
- <br/><img src='images/communities of opp.jpg'>
+<br/><img src='images/communities of opp.jpg'>
+<br/><img src='images/Housing Designated Areas.pdf'>
+
  
